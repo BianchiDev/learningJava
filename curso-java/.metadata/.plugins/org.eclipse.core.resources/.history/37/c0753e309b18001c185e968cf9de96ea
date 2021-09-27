@@ -1,0 +1,11 @@
+package Lambidas;
+
+public class Multiplicar implements Calculo {
+
+		@Override
+		public double executar(double a, double b) {
+			//TODO Autor-generated method stub
+			return 0;
+		}
+		
+}

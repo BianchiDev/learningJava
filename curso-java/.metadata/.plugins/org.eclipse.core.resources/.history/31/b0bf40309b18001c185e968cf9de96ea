@@ -1,0 +1,9 @@
+package Lambidas;
+
+public interface Calculo {
+
+	public double executart(double a, double b) {
+		
+		return a + b;
+	}
+}

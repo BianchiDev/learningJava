@@ -1,0 +1,8 @@
+package lambdas;
+
+public class Soma implements Cacuclo {
+	
+	@Override
+	
+	}
+}

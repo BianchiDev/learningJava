@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\ftcfe\Desktop\curso-java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+291364221.index
+3982050410.index
+1495496571.index
+1153372358.index
+32179612.index

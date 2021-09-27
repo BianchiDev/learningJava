@@ -1,0 +1,12 @@
+package lambdas;
+
+public class CalculoTeste1 {
+
+	public static void main(String[] args) {
+		Calculo soma = Somar();
+		Calculo multiplicacao = new Multiplicar();
+		
+		System.out.println(soma.executar(2, 3));
+
+	}
+}
