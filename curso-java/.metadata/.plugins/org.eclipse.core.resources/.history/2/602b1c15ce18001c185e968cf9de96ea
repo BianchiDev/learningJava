@@ -1,8 +1,0 @@
-package lambdas;
-
-public class CalcucloTeste2 {
-
-	public static void  main(String[] args) {
-		
-	}
-}
